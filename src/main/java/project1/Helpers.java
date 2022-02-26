@@ -1,4 +1,4 @@
-package image_convert;
+package project1;
 
 import java.util.HashMap;
 
